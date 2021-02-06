@@ -1,0 +1,49 @@
+{
+  "streams": [
+    {
+      "title": "first title",
+      "description": "first desc",
+      "id": 1
+    },
+    {
+      "title": "second title",
+      "description": "second desc",
+      "id": 2
+    },
+    {
+      "title": "third title",
+      "description": "third desc",
+      "id": 3
+    },
+    {
+      "description": "forth desc",
+      "title": "forth title",
+      "userId": "100631803721516832352",
+      "id": 4
+    },
+    {
+      "title": "5 t",
+      "description": "5 d",
+      "userId": "100631803721516832352",
+      "id": 5
+    },
+    {
+      "title": "6",
+      "description": "6",
+      "userId": "100631803721516832352",
+      "id": 6
+    },
+    {
+      "title": "7",
+      "description": "7",
+      "userId": "100631803721516832352",
+      "id": 8
+    },
+    {
+      "title": "8",
+      "description": "8",
+      "userId": "100631803721516832352",
+      "id": 9
+    }
+  ]
+}
